@@ -1,0 +1,9 @@
+=> criar projeto: npm create vue@latest
+=> entra na pasta do projeto: cd <your-project-name>
+=> instala o projeto: npm install
+=> roda o projeto: npm run dev
+
+API fictícia:
+=> instala a API ficticia json-server:  npm install -g json-server
+=> cria a variável de API no script do packege.json: "backend": "json-server --watch db/db.json"
+=> rodar o json-server: npm run backend

@@ -1,0 +1,67 @@
+{
+    "receitas": [
+        {
+            "nome": "carne de panela",
+            "id": "1",
+            "ingredientes": [
+                "carne",
+                "sal",
+                "tempero",
+                "azeite ou banha"
+            ],
+            "preparo": "Inicialmente corte a carne e tempere com sal e pimenta. Depois coloque a banha para esquentar e quando estiver quente adicione a carne. Frite até dourar e faça o molho de sua preferência."
+        }
+    ],
+    "receita-semana": [
+        {
+            "nome": "carne de panela",
+            "id": "1",
+            "ingredientes": [
+                "carne",
+                "sal",
+                "tempero",
+                "azeite ou banha"
+            ],
+            "preparo": "Inicialmente corte a carne e tempere com sal e pimenta. Depois coloque a banha para esquentar e quando estiver quente adicione a carne. Frite até dourar e faça o molho de sua preferência.",
+            "diaSemana": "1"
+        }
+    ],
+    "favoritos": [
+        {
+            "nome": "",
+            "id": "",
+            "ingredientes": [],
+            "preparo": ""
+        }
+    ],
+    "diaSemana": [
+        {
+            "id": "1",
+            "dia": "domingo"
+        },
+        {
+            "id": "2",
+            "dia": "segunda"
+        },
+        {
+            "id": "3",
+            "dia": "terça"
+        },
+        {
+            "id": "4",
+            "dia": "quarta"
+        },
+        {
+            "id": "5",
+            "dia": "quinta"
+        },
+        {
+            "id": "6",
+            "dia": "sexta"
+        },
+        {
+            "id": "7",
+            "dia": "sabado"
+        }
+    ]
+}
